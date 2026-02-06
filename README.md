@@ -1,7 +1,10 @@
 # UHD-demo
 A Demo of the E-Recruitment Recommendation Dataset UHD
 
-### Data Construction
+### Why Impressions Matter in Recommendations?
+![How Impressions Influence User Interactions?](figures/toy.png)
+
+### Data Construction 
 ![UHD Construction Pipeline and Quality Controls](figures/uhd.png)
 
 ### Files
