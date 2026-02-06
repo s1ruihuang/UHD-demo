@@ -2,7 +2,7 @@
 A Demo of the E-Recruitment Recommendation Dataset UHD
 
 ### Data Construction
-
+![UHD Construction Pipeline and Quality Controls](figures/uhd.png)
 
 ### Files
 - behaviors-demo.tsv: User–item interaction logs with timestamps.
